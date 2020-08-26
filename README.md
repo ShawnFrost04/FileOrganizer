@@ -6,6 +6,6 @@ This Organize the files automatically based on their extensions.
 
 
 
-# Future Updates 
+## Future Updates 
 - To display the No of Folders or Items in the organized folders on a GUI so we know what is clustering the Folder
 - Also be able to clear the whole Organizer Folder afterwards using one button.
